@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @phoenix-team-bot
+- 👀 I’m interested in NFTs
+- 🌱 I’m currently learning NFTs
+- 💞️ I’m looking to collaborate on NFTs
+- 📫 How to reach me <hello@phoenxteam.io>
